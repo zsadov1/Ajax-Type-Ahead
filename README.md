@@ -10,7 +10,7 @@ Using Fetch to grab Json data from a url, Map through that data to show users po
 
 ## Demo
 
-![Gallery Demo](/typeahead.gif)
+![Gallery Demo](/typeahead2.gif)
 
 ## License
 
